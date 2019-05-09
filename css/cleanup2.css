@@ -1,4 +1,4 @@
 
-div[id^="tag"] {
+div[id*="tag"] {
   display: none;
 }
