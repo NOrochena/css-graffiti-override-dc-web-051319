@@ -1,9 +1,9 @@
 
 div[id*="tag"] {
-  display: none;
+  display: none !important;
 }
 
 div[class*="tag"] {
-  display: none;
+  display: none !important;
 }
 
